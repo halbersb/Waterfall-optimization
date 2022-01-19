@@ -1,4 +1,10 @@
-# waterfall2
+# S&S-based waterfall optimization
 
 
-The full code and datasets would be uploaded once the paper is accepted to "International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research, 2022"
+This code implements the S&S-based waterfall algorithm
+
+classes - all relevant classes
+run_algorithms.py - run S&S and MCTS modes
+search_and_score.py - find neighbors and validate them
+
+run main.py
